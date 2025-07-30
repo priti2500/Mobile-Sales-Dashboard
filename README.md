@@ -1,4 +1,4 @@
-# Mobile-Sales-Dashboard - Power BI Project**  
+# Mobile-Sales-Dashboard - Power BI Project
 
 ## **Project Title**  
 📌 **Mobile Sales Dashboard – Data Visualization using Power BI**  
